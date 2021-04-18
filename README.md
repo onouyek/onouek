@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**onouek/onouek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**onouyek/onouyek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![onouek's github stats](https://github-readme-stats.vercel.app/api?username=onouek&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onouek&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![onouyek's github stats](https://github-readme-stats.vercel.app/api?username=onouyek&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onouyek&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
